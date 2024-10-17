@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Shete</h1>
 <h3 align="center">A passionate JAVA developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/o-wNCEq_6f0AAAAd/pompo-the-cinephile-typing-fast.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🔭 I’m currently working on **A Microservices Project**
 
